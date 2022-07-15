@@ -1,0 +1,23 @@
+.pafinator {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 0;
+    justify-content: center;
+    gap: 5px;
+}
+
+.paginator_item {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.paginator_item__active {
+    background-color: aqua;
+}

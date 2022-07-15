@@ -1,0 +1,28 @@
+.tabel_users {
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #dee2e6;
+}
+
+.tabele_users__name_column {
+    border: 1px solid #dee2e6;
+    padding: 12px;
+}
+
+.td_item_cart {
+    border: 1px solid #dee2e6;
+    padding: 12px;
+    text-align: center;
+}
+
+.search_form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.search_form_input{
+    width: 200px;
+}

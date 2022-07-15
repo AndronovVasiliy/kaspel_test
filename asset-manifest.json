@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaspel_test/static/css/main.dc571e6c.css",
+    "main.js": "/kaspel_test/static/js/main.f09d3e41.js",
+    "index.html": "/kaspel_test/index.html",
+    "main.dc571e6c.css.map": "/kaspel_test/static/css/main.dc571e6c.css.map",
+    "main.f09d3e41.js.map": "/kaspel_test/static/js/main.f09d3e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc571e6c.css",
+    "static/js/main.f09d3e41.js"
+  ]
+}
